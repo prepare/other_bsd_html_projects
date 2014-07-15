@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/27/trunk/src/cairo/64
+END
+cairo.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/27/trunk/src/cairo/64/cairo.lib
+END
+cairo.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/27/trunk/src/cairo/64/cairo.dll
+END
+cairo-static.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/64/cairo-static.lib
+END

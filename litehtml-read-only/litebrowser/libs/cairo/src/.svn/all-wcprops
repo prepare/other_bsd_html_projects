@@ -1,0 +1,1955 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/27/trunk/src/cairo/src
+END
+cairo-surface-snapshot-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-snapshot-inline.h
+END
+check-plt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/check-plt.sh
+END
+cairo-contour-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-contour-inline.h
+END
+cairo-atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-atomic.c
+END
+cairo-clip-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-surface.c
+END
+cairo-array.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-array.c
+END
+cairo-path-stroke-boxes.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-stroke-boxes.c
+END
+cairo-os2-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-os2-private.h
+END
+cairo-wideint-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-wideint-private.h
+END
+cairo-image-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-surface-private.h
+END
+cairo-unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-unicode.c
+END
+cairo-mutex-list-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mutex-list-private.h
+END
+cairo-surface-backend-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-backend-private.h
+END
+cairo-damage-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-damage-private.h
+END
+cairo-quartz-image-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz-image-surface.c
+END
+cairo-surface-observer-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-observer-inline.h
+END
+cairo-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-compositor.c
+END
+cairo-tee-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tee-surface.c
+END
+test-paginated-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/test-paginated-surface.c
+END
+cairo-clip-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-private.h
+END
+cairo-output-stream-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-output-stream-private.h
+END
+test-paginated-surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/test-paginated-surface.h
+END
+cairo-fontconfig-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-fontconfig-private.h
+END
+cairo-boxes-intersect.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-boxes-intersect.c
+END
+cairo-color.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-color.c
+END
+cairo-xcb-surface-render.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-surface-render.c
+END
+cairo-bentley-ottmann.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-bentley-ottmann.c
+END
+cairo-base85-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-base85-stream.c
+END
+cairo-gl-spans-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-spans-compositor.c
+END
+cairo-xlib-xrender-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-xrender-private.h
+END
+cairo-pen.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pen.c
+END
+cairo-default-context-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-default-context-private.h
+END
+cairo-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-features.h
+END
+cairo-fallback-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-fallback-compositor.c
+END
+cairo-deflate-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-deflate-stream.c
+END
+cairo-gl-gradient.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-gradient.c
+END
+cairo-mutex-type-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mutex-type-private.h
+END
+cairo-slope-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-slope-private.h
+END
+cairo.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo.c
+END
+cairo-vg-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-vg-surface.c
+END
+cairo-surface-subsurface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-subsurface-private.h
+END
+cairo-traps-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-traps-private.h
+END
+cairo.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo.h
+END
+cairo-analysis-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-analysis-surface.c
+END
+cairo-combsort-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-combsort-inline.h
+END
+cairo-qt-surface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-qt-surface.cpp
+END
+cairo-pdf-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-surface-private.h
+END
+cairo-scaled-font-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-scaled-font-private.h
+END
+cairo-device-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-device-private.h
+END
+cairo-gl-dispatch-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-dispatch-private.h
+END
+cairo-glx-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-glx-context.c
+END
+check-link.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/check-link.c
+END
+cairo-ft.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ft.h
+END
+cairo-type1-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type1-private.h
+END
+cairo-cogl-context-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-context-private.h
+END
+test-compositor-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/test-compositor-surface-private.h
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.sources
+END
+cairo-ps-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ps-surface-private.h
+END
+cairo-scaled-font-subsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-scaled-font-subsets.c
+END
+cairo-path-stroke-polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-stroke-polygon.c
+END
+cairo-gstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gstate.c
+END
+cairo-xlib-source.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-source.c
+END
+cairo-gl-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-device.c
+END
+cairo-wideint-type-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-wideint-type-private.h
+END
+cairo-user-font-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-user-font-private.h
+END
+cairo-svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-svg.h
+END
+cairo-wgl-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-wgl-context.c
+END
+cairo-surface-offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-offset.c
+END
+cairo-lzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-lzw.c
+END
+test-null-compositor-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/test-null-compositor-surface.c
+END
+cairo-tee-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tee-surface-private.h
+END
+cairo-xcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/27/trunk/src/cairo/src/README
+END
+test-null-compositor-surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/test-null-compositor-surface.h
+END
+cairo-surface-wrapper-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-wrapper-private.h
+END
+cairo-malloc-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-malloc-private.h
+END
+cairo-shape-mask-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-shape-mask-compositor.c
+END
+cairo-surface-fallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-fallback.c
+END
+cairo-polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-polygon.c
+END
+cairo-qt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-qt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.am
+END
+cairo-xcb-connection-shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-connection-shm.c
+END
+cairo-pdf-shading-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-shading-private.h
+END
+cairo-spans-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-spans-private.h
+END
+cairo-cff-subset.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cff-subset.c
+END
+cairo-recording-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-recording-surface.c
+END
+Makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.win32
+END
+cairo-directfb-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-directfb-surface.c
+END
+cairo-raster-source-pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-raster-source-pattern.c
+END
+cairo-gl-gradient-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-gradient-private.h
+END
+cairo-image-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-info.c
+END
+cairo-base64-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-base64-stream.c
+END
+cairo-ft-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ft-font.c
+END
+cairo-mutex-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mutex-private.h
+END
+Makefile.am.analysis
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.am.analysis
+END
+cairo-bentley-ottmann-rectilinear.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-bentley-ottmann-rectilinear.c
+END
+cairo-rtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-rtree.c
+END
+cairo-surface-snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-snapshot.c
+END
+cairo-svg-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-svg-surface.c
+END
+cairo-ft-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ft-private.h
+END
+cairo-analysis-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-analysis-surface-private.h
+END
+cairo-error.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-error.c
+END
+cairo-quartz.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz.h
+END
+cairo-path.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path.c
+END
+cairo-cogl-utils-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-utils-private.h
+END
+cairo-tor22-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tor22-scan-converter.c
+END
+cairo-scaled-font-subsets-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-scaled-font-subsets-private.h
+END
+cairo-gstate-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gstate-private.h
+END
+cairo-gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl.h
+END
+cairo-xcb-connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-connection.c
+END
+cairo-type3-glyph-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type3-glyph-surface.c
+END
+cairo-paginated-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-paginated-surface.c
+END
+check-headers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/check-headers.sh
+END
+cairo-xlib-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-surface.c
+END
+cairo-path-bounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-bounds.c
+END
+cairo-bentley-ottmann-rectangular.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-bentley-ottmann-rectangular.c
+END
+cairo-tristrip-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tristrip-private.h
+END
+cairo-beos.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-beos.h
+END
+cairo-xcb-connection-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-connection-core.c
+END
+cairo-surface-fallback-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-fallback-private.h
+END
+cairo-xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xml.h
+END
+cairo-arc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-arc.c
+END
+cairo-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-private.h
+END
+cairo-xlib-render-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-render-compositor.c
+END
+cairo-image-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-surface.c
+END
+cairo-paginated-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-paginated-private.h
+END
+check-doc-syntax.awk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/check-doc-syntax.awk
+END
+cairo-cogl-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-surface.c
+END
+cairo-xlib-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-private.h
+END
+cairo-freelist.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-freelist.c
+END
+cairo-damage.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-damage.c
+END
+cairo-font-face-twin.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-font-face-twin.c
+END
+cairo-path-in-fill.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-in-fill.c
+END
+cairo-compiler-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-compiler-private.h
+END
+cairo-drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-drm.h
+END
+cairo-image-info-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-info-private.h
+END
+cairo-image-surface-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-surface-inline.h
+END
+cairo-xlib-xcb-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-xcb-surface.c
+END
+cairo-rtree-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-rtree-private.h
+END
+cairo-stroke-dash-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-stroke-dash-private.h
+END
+cairo-cogl-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-private.h
+END
+cairo-reference-count-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-reference-count-private.h
+END
+cairo-surface-snapshot-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-snapshot-private.h
+END
+cairo-svg-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-svg-surface-private.h
+END
+cairo-cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cache.c
+END
+cairo-rectangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-rectangle.c
+END
+cairo-backend-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-backend-private.h
+END
+cairo-error-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-error-private.h
+END
+cairo-default-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-default-context.c
+END
+cairo-quartz-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz-image.h
+END
+cairo-clip-tor-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-tor-scan-converter.c
+END
+cairo-path-fill.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-fill.c
+END
+cairo-slope.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-slope.c
+END
+cairo-surface-subsurface.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-subsurface.c
+END
+cairo-type3-glyph-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type3-glyph-surface-private.h
+END
+cairo-quartz-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz-font.c
+END
+cairo-gl-source.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-source.c
+END
+cairo-stroke-style.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-stroke-style.c
+END
+cairo-type1-subset.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type1-subset.c
+END
+cairo-cogl-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-context.c
+END
+test-compositor-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/test-compositor-surface.c
+END
+cairo-ps-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ps-surface.c
+END
+cairo-clip-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-inline.h
+END
+cairo-surface-subsurface-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-subsurface-inline.h
+END
+test-compositor-surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/test-compositor-surface.h
+END
+cairo-time-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-time-private.h
+END
+cairo-clip-polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-polygon.c
+END
+cairo-mutex-impl-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mutex-impl-private.h
+END
+cairo-vg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-vg.h
+END
+cairo-types-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-types-private.h
+END
+cairo-user-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-user-font.c
+END
+cairo-arc-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-arc-private.h
+END
+cairo-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-debug.c
+END
+cairo-list-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-list-private.h
+END
+cairo-gl-operand.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-operand.c
+END
+cairo-xcb-screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-screen.c
+END
+cairo-contour.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-contour.c
+END
+cairo-freelist-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-freelist-private.h
+END
+cairo-script-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-script-surface.c
+END
+cairo-misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-misc.c
+END
+cairo-spans-compositor-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-spans-compositor-private.h
+END
+cairo-font-options.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-font-options.c
+END
+cairo-path-stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-stroke.c
+END
+cairo-surface-clipper-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-clipper-private.h
+END
+cairo-deprecated.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-deprecated.h
+END
+cairo-gl-glyphs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-glyphs.c
+END
+cairo-surface-wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-wrapper.c
+END
+cairo-freed-pool-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-freed-pool-private.h
+END
+cairo-pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pattern.c
+END
+cairo-path-stroke-tristrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-stroke-tristrip.c
+END
+cairo-cache-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cache-private.h
+END
+cairo-script-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-script-private.h
+END
+check-preprocessor-syntax.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/check-preprocessor-syntax.sh
+END
+cairo-hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-hash.c
+END
+cairo-pdf-shading.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-shading.c
+END
+cairo-spans.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-spans.c
+END
+cairo-font-face-twin-data.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-font-face-twin-data.c
+END
+cairo-path-fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-fixed.c
+END
+cairo-boxes-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-boxes-private.h
+END
+cairo-type1-fallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type1-fallback.c
+END
+cairo-mono-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mono-scan-converter.c
+END
+cairo-truetype-subset-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-truetype-subset-private.h
+END
+check-doc-syntax.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/check-doc-syntax.sh
+END
+cairo-mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mutex.c
+END
+cairo-matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-matrix.c
+END
+cairo-clip-boxes.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-boxes.c
+END
+cairo-toy-font-face.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-toy-font-face.c
+END
+cairo-xlib-core-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-core-compositor.c
+END
+cairo-cogl-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-utils.c
+END
+cairo-recording-surface-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-recording-surface-inline.h
+END
+cairo-xcb-connection-render.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-connection-render.c
+END
+cairo-directfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-directfb.h
+END
+cairo-mask-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mask-compositor.c
+END
+cairo-xcb-surface-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-surface-core.c
+END
+cairo-atomic-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-atomic-private.h
+END
+cairo-egl-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-egl-context.c
+END
+cairo-spline.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-spline.c
+END
+cairo-array-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-array-private.h
+END
+cairo-fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-fixed.c
+END
+cairo-features.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-features.pc.in
+END
+cairo-contour-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-contour-private.h
+END
+check-has-hidden-symbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/check-has-hidden-symbols.c
+END
+cairo-compositor-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-compositor-private.h
+END
+cairo-image-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-compositor.c
+END
+cairo-cogl-gradient.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-gradient.c
+END
+cairo-tristrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tristrip.c
+END
+cairo-version.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-version.c
+END
+cairo-traps-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-traps-compositor.c
+END
+cairo-polygon-intersect.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-polygon-intersect.c
+END
+cairo-composite-rectangles.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-composite-rectangles.c
+END
+cairo.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo.pc.in
+END
+cairo-xlib-fallback-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-fallback-compositor.c
+END
+cairo-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface.c
+END
+cairo-pattern-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pattern-private.h
+END
+cairo-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-version.h
+END
+cairo-tor-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tor-scan-converter.c
+END
+cairo-fixed-type-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-fixed-type-private.h
+END
+cairo-list-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-list-inline.h
+END
+cairo-hash-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-hash-private.h
+END
+cairo-font-face.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-font-face.c
+END
+cairo-xlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.in
+END
+cairo-path-fixed-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-fixed-private.h
+END
+cairo-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-win32.h
+END
+cairo-surface-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-inline.h
+END
+cairo-box-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-box-inline.h
+END
+cairo-error-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-error-inline.h
+END
+cairo-beos-surface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-beos-surface.cpp
+END
+Makefile.win32.features
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.win32.features
+END
+cairo-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-private.h
+END
+cairoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairoint.h
+END
+cairo-type1-glyph-names.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-type1-glyph-names.c
+END
+cairo-stroke-dash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-stroke-dash.c
+END
+cairo-cogl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl.h
+END
+cairo-gl-shaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-shaders.c
+END
+cairo-gl-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-info.c
+END
+cairo-skia.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-skia.h
+END
+cairo-polygon-reduce.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-polygon-reduce.c
+END
+cairo-xcb-surface-cairo.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-surface-cairo.c
+END
+cairo-pattern-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pattern-inline.h
+END
+cairo-mesh-pattern-rasterizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-mesh-pattern-rasterizer.c
+END
+cairo-xcb-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-surface.c
+END
+cairo-hull.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-hull.c
+END
+check-def.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/check-def.sh
+END
+cairo-no-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-no-compositor.c
+END
+cairo-clip-region.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip-region.c
+END
+cairo-freelist-type-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-freelist-type-private.h
+END
+cairo-fixed-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-fixed-private.h
+END
+cairo-surface-observer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-observer.c
+END
+cairo-gl-msaa-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-msaa-compositor.c
+END
+test-base-compositor-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/test-base-compositor-surface.c
+END
+cairo-features-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-features-uninstalled.pc.in
+END
+cairo-region.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-region.c
+END
+cairo-pdf-operators.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-operators.c
+END
+cairo-observer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-observer.c
+END
+cairo-surface-offset-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-offset-private.h
+END
+cairo-xcb-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-private.h
+END
+cairo-cogl-gradient-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-cogl-gradient-private.h
+END
+cairo-time.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-time.c
+END
+cairo-xlib-visual.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-visual.c
+END
+cairo-xcb-shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xcb-shm.c
+END
+cairo-wideint.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-wideint.c
+END
+cairo-composite-rectangles-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-composite-rectangles-private.h
+END
+cairo-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-uninstalled.pc.in
+END
+cairo-os2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-os2.h
+END
+cairo-botor-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-botor-scan-converter.c
+END
+cairo-quartz-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz-surface.c
+END
+cairo-pdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf.h
+END
+cairo-recording-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-recording-surface-private.h
+END
+cairo-spans-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-spans-compositor.c
+END
+cairo-surface-clipper.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-clipper.c
+END
+cairo-png.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-png.c
+END
+cairo-gl-traps-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-traps-compositor.c
+END
+cairo-ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-ps.h
+END
+cairo-clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-clip.c
+END
+cairo-gl-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-surface.c
+END
+cairo-output-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-output-stream.c
+END
+cairo-freed-pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-freed-pool.c
+END
+cairo-rectangular-scan-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-rectangular-scan-converter.c
+END
+cairo-quartz-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-quartz-private.h
+END
+cairo-xlib-xrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-xrender.h
+END
+cairo-path-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-path-private.h
+END
+cairo-gl-ext-def-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-ext-def-private.h
+END
+cairo-script.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-script.h
+END
+Makefile.am.features
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/Makefile.am.features
+END
+cairo-xlib-screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-screen.c
+END
+cairo-gl-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-private.h
+END
+cairo-boxes.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-boxes.c
+END
+cairo-image-source.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-image-source.c
+END
+cairo-tee.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-tee.h
+END
+cairo-truetype-subset.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-truetype-subset.c
+END
+cairo-xml-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xml-surface.c
+END
+cairo-traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-traps.c
+END
+cairo-os2-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-os2-surface.c
+END
+cairo-surface-observer-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-surface-observer-private.h
+END
+cairo-gl-dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-dispatch.c
+END
+cairo-scaled-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-scaled-font.c
+END
+cairo-pdf-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-surface.c
+END
+cairo-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-device.c
+END
+cairo-paginated-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-paginated-surface-private.h
+END
+cairo-region-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-region-private.h
+END
+cairo-xlib-display.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-display.c
+END
+cairo-xlib-surface-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-xlib-surface-private.h
+END
+cairo-pdf-operators-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-pdf-operators-private.h
+END
+cairo-gl-composite.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/src/cairo/src/cairo-gl-composite.c
+END

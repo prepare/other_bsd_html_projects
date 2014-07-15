@@ -1,0 +1,9 @@
+K 13
+svn:externals
+V 312
+https://tlb-pdk.googlecode.com/svn/trunk/src/cairo litebrowser/libs/cairo
+https://tlb-pdk.googlecode.com/svn/trunk/src/txdib litebrowser/libs/txdib
+https://tlb-pdk.googlecode.com/svn/trunk/src/simpledib litebrowser/libs/simpledib
+https://tlb-pdk.googlecode.com/svn/trunk/src/freeimage litebrowser/libs/freeimage
+
+END

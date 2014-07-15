@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/trunk/tooltipstest
+END
+tooltipstest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95/trunk/tooltipstest/tooltipstest.vcproj
+END
+tooltipstest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/tooltipstest/tooltipstest.rc
+END
+MainWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/tooltipstest/MainWnd.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/trunk/tooltipstest/main.cpp
+END
+TxWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/35/trunk/tooltipstest/TxWnd.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/35/trunk/tooltipstest/globals.h
+END
+TxWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/trunk/tooltipstest/TxWnd.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/35/trunk/tooltipstest/resource.h
+END
+MainWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/95/trunk/tooltipstest/MainWnd.cpp
+END

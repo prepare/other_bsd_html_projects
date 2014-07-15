@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/27/trunk/src/cairo/src/drm
+END
+cairo-drm-intel-brw-defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-defines.h
+END
+cairo-drm-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-surface.c
+END
+cairo-drm-radeon-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-radeon-surface.c
+END
+cairo-drm-bo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-bo.c
+END
+cairo-drm-intel-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-surface.c
+END
+cairo-drm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm.c
+END
+cairo-drm-intel-command-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-command-private.h
+END
+cairo-drm-i915-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i915-private.h
+END
+cairo-drm-intel-brw-eu-emit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-eu-emit.c
+END
+cairo-drm-radeon.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-radeon.c
+END
+cairo-drm-intel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel.c
+END
+cairo-drm-i965-spans.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i965-spans.c
+END
+cairo-drm-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-private.h
+END
+cairo-drm-i965-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i965-surface.c
+END
+cairo-drm-intel-brw-eu-util.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-eu-util.c
+END
+cairo-drm-radeon-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-radeon-private.h
+END
+cairo-drm-ioctl-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-ioctl-private.h
+END
+cairo-drm-intel-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-private.h
+END
+cairo-drm-i915-glyphs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i915-glyphs.c
+END
+cairo-drm-i915-shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i915-shader.c
+END
+cairo-drm-intel-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-debug.c
+END
+cairo-drm-i965-shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i965-shader.c
+END
+cairo-drm-i965-glyphs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i965-glyphs.c
+END
+cairo-drm-intel-ioctl-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-ioctl-private.h
+END
+cairo-drm-i915-spans.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i915-spans.c
+END
+cairo-drm-i965-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i965-private.h
+END
+cairo-drm-intel-brw-eu.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-eu.c
+END
+cairo-drm-i915-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-i915-surface.c
+END
+cairo-drm-intel-brw-structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-structs.h
+END
+cairo-drm-intel-brw-eu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-intel-brw-eu.h
+END
+cairo-drm-gallium-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/cairo/src/drm/cairo-drm-gallium-surface.c
+END

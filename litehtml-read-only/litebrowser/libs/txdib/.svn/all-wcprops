@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/42/trunk/src/txdib
+END
+TxDIB.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/42/trunk/src/txdib/TxDIB.h
+END
+TxDIBlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/src/txdib/TxDIBlib.vcproj
+END
+TxDIB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/27/trunk/src/txdib/TxDIB.cpp
+END

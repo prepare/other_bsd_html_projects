@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/27/trunk/src/cairo/src/win32
+END
+cairo-win32-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-system.c
+END
+cairo-win32-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-font.c
+END
+cairo-win32-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-debug.c
+END
+cairo-win32-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-surface.c
+END
+cairo-win32-display-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-display-surface.c
+END
+cairo-win32-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-private.h
+END
+cairo-win32-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-device.c
+END
+cairo-win32-gdi-compositor.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-gdi-compositor.c
+END
+cairo-win32-printing-surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/src/cairo/src/win32/cairo-win32-printing-surface.c
+END

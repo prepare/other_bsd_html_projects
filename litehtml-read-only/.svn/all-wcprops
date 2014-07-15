@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/110/trunk
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/110/trunk/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/110/trunk/.cproject
+END
+litehtml.sln
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/56/trunk/litehtml.sln
+END
